@@ -1,4 +1,4 @@
-pyrotgfork
+pyrofork
 python-telegram-bot
 umongo
 tgcrypto
